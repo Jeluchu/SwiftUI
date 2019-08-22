@@ -1,15 +1,24 @@
 [
     {
         "name": "Izuku Midoriya",
-        "category": "Featured",
-        "city": "Twentynine Palms",
-        "state": "California",
+        "category": "Estudiante a héroe",
         "id": 1001,
-        "park": "Joshua Tree National Park",
+        "quirk": "One for All",
         "coordinates": {
             "longitude": -116.166868,
             "latitude": 34.011286
         },
         "imageName": "midoriya"
+    },
+    {
+        "name": "Mirio Togata",
+        "category": "Estudiante a héroe",
+        "id": 4,
+        "quirk": "Permeabilidad",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "imageName": "togata"
     }
 ]
