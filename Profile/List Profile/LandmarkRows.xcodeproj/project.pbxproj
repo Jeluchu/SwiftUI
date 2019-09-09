@@ -24,7 +24,7 @@
 		A64599D8230D4BC000A5B919 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64599D7230D4BC000A5B919 /* Data.swift */; };
 		A64599DA230D4D8900A5B919 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A64599D9230D4D8900A5B919 /* LandmarkList.swift */; };
 		A64599DC230D50D800A5B919 /* midoriya.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A64599DB230D50D800A5B919 /* midoriya.jpg */; };
-		A64599E2230D539E00A5B919 /* togata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A64599E1230D539D00A5B919 /* togata.jpg */; };
+		A67CB1F32326425C006B8E82 /* togata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A67CB1F22326425C006B8E82 /* togata.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,7 +68,7 @@
 		A64599D7230D4BC000A5B919 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Data.swift; path = ../../../../../Downloads/BuildingListsAndNavigation/Complete/Landmarks/Landmarks/Models/Data.swift; sourceTree = "<group>"; };
 		A64599D9230D4D8900A5B919 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		A64599DB230D50D800A5B919 /* midoriya.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = midoriya.jpg; sourceTree = "<group>"; };
-		A64599E1230D539D00A5B919 /* togata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = togata.jpg; path = ../../../../togata.jpg; sourceTree = "<group>"; };
+		A67CB1F22326425C006B8E82 /* togata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = togata.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,7 +171,7 @@
 		A64599C9230D420900A5B919 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				A64599E1230D539D00A5B919 /* togata.jpg */,
+				A67CB1F22326425C006B8E82 /* togata.jpg */,
 				A64599DB230D50D800A5B919 /* midoriya.jpg */,
 				A64599D5230D488200A5B919 /* landmarkData.json */,
 			);
@@ -305,7 +305,7 @@
 				A64599A3230D33FD00A5B919 /* LaunchScreen.storyboard in Resources */,
 				A64599D6230D488200A5B919 /* landmarkData.json in Resources */,
 				A64599A0230D33FD00A5B919 /* Preview Assets.xcassets in Resources */,
-				A64599E2230D539E00A5B919 /* togata.jpg in Resources */,
+				A67CB1F32326425C006B8E82 /* togata.jpg in Resources */,
 				A645999D230D33FD00A5B919 /* Assets.xcassets in Resources */,
 				A64599DC230D50D800A5B919 /* midoriya.jpg in Resources */,
 			);
